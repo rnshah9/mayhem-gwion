@@ -1,0 +1,5 @@
+project: rnshah9/mayhem-gwion
+target: gwion
+
+cmds:
+  - cmd: /Gwion/gwion @@
